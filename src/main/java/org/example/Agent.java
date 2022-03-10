@@ -9,7 +9,7 @@ public class Agent extends ListenerAdapter {
     @Override
     public void onMessageReceived(@NotNull MessageReceivedEvent event) {
         if (!event.getAuthor().isBot()) {
-            //Run bot here
+            BotFactory.runBot(event);
 
         }
     }

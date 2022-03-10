@@ -11,7 +11,7 @@ public class BotFactory {
         System.out.println("command: " + command);
 
         switch (command) {
-            case "!ping":
+            case "!piing":
                 //do something
                 new PingPong().start(event);
                 break;
