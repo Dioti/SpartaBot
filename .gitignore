@@ -62,6 +62,9 @@ out/
 # JIRA plugin
 atlassian-ide-plugin.xml
 
+# app properties
+application.properties
+
 # Cursive Clojure plugin
 .idea/replstate.xml
 
@@ -88,6 +91,8 @@ fabric.properties
 # .idea/misc.xml
 # *.ipr
 
+# *.ipr
+
 # Sonarlint plugin
 # https://plugins.jetbrains.com/plugin/7973-sonarlint
 .idea/**/sonarlint/
@@ -111,3 +116,5 @@ fabric.properties
 .idea/codestream.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij
+src/main/resources/application.properties
+*.properties
