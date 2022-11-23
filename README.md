@@ -1,2 +1,4 @@
 # SpartaBot
-Discord bot with various functionalities.
+A Discord bot with various functionalities.
+
+In development.
