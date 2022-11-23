@@ -1,2 +1,2 @@
 # SpartaBot
-yay
+Discord bot with various functionalities.
